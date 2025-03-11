@@ -1,0 +1,12 @@
+Syntax of def statement:
+
+1) The def statement is a block statement i.e it has a header body syntax.
+2) Header of def statement:
+    a) def keyword (which tells python that a new function is being defined)
+    b) Name of function (or name of algorithm)
+    c) input data in round brackets
+3) Body of def statement:
+    Finite definite sequence of steps which act on the input data to produce
+    desired output either by converting input data into the output data or
+    by producing new output data.
+    
